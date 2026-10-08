@@ -1,0 +1,40 @@
+## Interface: 16001
+## Title: Agamon: |cff33ff99Forever|r
+## Notes: spell, gear, auction, and rotation estimates for WoW Forever
+## Author: Tona
+## Version: 0.1.0
+## SavedVariables: AgamonForeverDB, AgamonForeverAuctionDB, AgamonForeverCraftDB
+## SavedVariablesPerCharacter: AgamonForeverChar
+## IconTexture: Interface\Icons\Ability_DualWield
+
+Core/Core.lua
+Core/Blocked.lua
+Core/History.lua
+Core/Stats.lua
+Core/Spec.lua
+Core/Talents.lua
+Core/Value.lua
+Core/Mana.lua
+Combat/Parse.lua
+Combat/Calc.lua
+Combat/Resolve.lua
+Combat/Effects.lua
+Combat/Units.lua
+Combat/Scan.lua
+Combat/Rotation.lua
+Combat/Meter.lua
+Simulation/Simulate.lua
+Items/Items.lua
+Items/Auction.lua
+Items/Craft.lua
+UI/Skin.lua
+UI/AuctionStatus.lua
+UI/Output.lua
+UI/Options.lua
+UI/Panel.lua
+UI/Minimap.lua
+UI/Tooltip.lua
+UI/Live.lua
+UI/ManaBar.lua
+UI/Shop.lua
+UI/Bis.lua
